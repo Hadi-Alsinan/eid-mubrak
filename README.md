@@ -1,2 +1,2 @@
 # eid-mubrak
-## run thhis code and eid mubark!
+**run this code and eid mubark!**
